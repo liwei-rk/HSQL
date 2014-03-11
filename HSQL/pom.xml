@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>HSQL</groupId>
+    <artifactId>HSQL</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <packaging>jar</packaging>
+    <parent>
+
+        <groupId>HSQL3</groupId>
+        <artifactId>HSQL3</artifactId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.hadoop</groupId>
+                <artifactId>hadoop-maven-plugins</artifactId>
+                <configuration>
+                    <protocVersion>${protobuf.version}</protocVersion>
+                    <source>
+                        <include>ChangeMetaData.proto</include>
+                        <include>QueryRows.proto</include>
+                    </source>
+                </configuration>
+            </plugin>
+            <plugin>
+                <groupId>org.antlr</groupId>
+                <artifactId>antlr3-maven-plugin</artifactId>
+                <version>${antlr.version}</version>
+                <executions>
+                    <execution>
+                        <phase>
+                             generate-sources
+                        </phase>
+                        <goals>
+                            <goal>antlr</goal>
+                        </goals>
+                    </execution>
+                </executions>
+                <configuration>
+                    <outputDirectory>${antlr-output.dir}/org/ict/hsql/parse</outputDirectory>
+                </configuration>
+            </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-surefire-plugin</artifactId>
+                <version>2.13</version>
+                <configuration>
+                    <additionalClasspathElements>
+                        <additionalClasspathElement>${basedir}/conf</additionalClasspathElement>
+                    </additionalClasspathElements>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+    <properties>
+        <!-- General Properties -->
+        <antlr-input.dir>src/main/antlr3</antlr-input.dir>
+        <antlr-output.dir>src/main/java</antlr-output.dir>
+        <test.output.tofile>true</test.output.tofile>
+        <!-- Dependency versions -->
+        <mongo-java-driver.version>2.9.2</mongo-java-driver.version>
+        <phoenix.version>2.0.2</phoenix.version>
+        <commons-cli.version>1.2</commons-cli.version>
+        <hadoop.version>1.0.4</hadoop.version>
+        <hbase.version>0.98.0-SNAPSHOT</hbase.version>
+        <pig.version>0.11.0</pig.version>
+        <jackson.version>1.8.8</jackson.version>
+        <antlr.version>3.5</antlr.version>
+        <opencsv.version>2.3</opencsv.version>
+        <log4j.version>1.2.16</log4j.version>
+        <slf4j-api.version>1.4.3.jar</slf4j-api.version>
+        <slf4j-log4j.version>1.4.3</slf4j-log4j.version>
+        <protobuf-java.version>2.4.0</protobuf-java.version>
+        <commons-configuration.version>1.6</commons-configuration.version>
+        <commons-io.version>2.1</commons-io.version>
+        <commons-lang.version>2.5</commons-lang.version>
+        <commons-logging.version>1.1.1</commons-logging.version>
+        <sqlline.version>1.1.2</sqlline.version>
+        <guava.version>12.0.1</guava.version>
+        <jackson.version>1.8.8</jackson.version>
+
+        <!-- Test Dependencies -->
+        <mockito-all.version>1.8.5</mockito-all.version>
+        <junit.version>4.11</junit.version>
+
+        <!-- Plugin versions -->
+        <maven-eclipse-plugin.version>2.8</maven-eclipse-plugin.version>
+        <maven-build-helper-plugin.version>1.7</maven-build-helper-plugin.version>
+        <maven-dependency-plugin.version>2.1</maven-dependency-plugin.version>
+
+        <!-- Set default encoding so multi-byte tests work correctly on the Mac -->
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+    </properties>
+
+    <dependencies>
+        <dependency>
+            <groupId>com.google.protobuf</groupId>
+            <artifactId>protobuf-java</artifactId>
+
+        </dependency>
+        <dependency>
+            <groupId>org.apache.hbase</groupId>
+            <artifactId>hbase-client</artifactId>
+            <version>0.98.0-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.hbase</groupId>
+            <artifactId>hbase-common</artifactId>
+            <version>0.98.0-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.hbase</groupId>
+            <artifactId>hbase-server</artifactId>
+            <version>0.98.0-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+            <groupId>org.antlr</groupId>
+            <artifactId>antlr-runtime</artifactId>
+            <version>${antlr.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.hadoop</groupId>
+            <artifactId>hadoop-core</artifactId>
+            <version>${hadoop.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.hbase</groupId>
+            <artifactId>hbase-examples</artifactId>
+            <version>0.98.0-SNAPSHOT</version>
+        </dependency>
+
+
+
+
+
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.4</version>
+        </dependency>
+    </dependencies>
+
+
+</project>

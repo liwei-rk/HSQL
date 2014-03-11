@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="HSQL.jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HSQL_jar</output-path>
+    <root id="archive" name="HSQL.jar.jar" />
+  </artifact>
+</component>

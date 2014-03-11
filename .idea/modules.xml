@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HBase/HBase.iml" filepath="$PROJECT_DIR$/HBase/HBase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HIndex/HIndex.iml" filepath="$PROJECT_DIR$/HIndex/HIndex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HSQL/HSQL.iml" filepath="$PROJECT_DIR$/HSQL/HSQL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HSQL3.iml" filepath="$PROJECT_DIR$/HSQL3.iml" />
+      <module fileurl="file://H:/sources/hbase/hbase-0.98.0/hbase (1).iml" filepath="H:/sources/hbase/hbase-0.98.0/hbase (1).iml" />
+      <module fileurl="file://H:/sources/hbase/hbase-0.98.0/hbase-assembly/hbase-assembly.iml" filepath="H:/sources/hbase/hbase-0.98.0/hbase-assembly/hbase-assembly.iml" />
+      <module fileurl="file://H:/sources/hbase/hbase-0.98.0/hbase-client/hbase-client.iml" filepath="H:/sources/hbase/hbase-0.98.0/hbase-client/hbase-client.iml" />
+      <module fileurl="file://H:/sources/hbase/hbase-0.98.0/hbase-common/hbase-common.iml" filepath="H:/sources/hbase/hbase-0.98.0/hbase-common/hbase-common.iml" />
+      <module fileurl="file://H:/sources/hbase/hbase-0.98.0/hbase-examples/hbase-examples.iml" filepath="H:/sources/hbase/hbase-0.98.0/hbase-examples/hbase-examples.iml" />
+      <module fileurl="file://H:/sources/hbase/hbase-0.98.0/hbase-hadoop-compat/hbase-hadoop-compat.iml" filepath="H:/sources/hbase/hbase-0.98.0/hbase-hadoop-compat/hbase-hadoop-compat.iml" />
+      <module fileurl="file://H:/sources/hbase/hbase-0.98.0/hbase-hadoop2-compat/hbase-hadoop2-compat.iml" filepath="H:/sources/hbase/hbase-0.98.0/hbase-hadoop2-compat/hbase-hadoop2-compat.iml" />
+      <module fileurl="file://H:/sources/hbase/hbase-0.98.0/hbase-it/hbase-it.iml" filepath="H:/sources/hbase/hbase-0.98.0/hbase-it/hbase-it.iml" />
+      <module fileurl="file://H:/sources/hbase/hbase-0.98.0/hbase-prefix-tree/hbase-prefix-tree.iml" filepath="H:/sources/hbase/hbase-0.98.0/hbase-prefix-tree/hbase-prefix-tree.iml" />
+      <module fileurl="file://H:/sources/hbase/hbase-0.98.0/hbase-protocol/hbase-protocol.iml" filepath="H:/sources/hbase/hbase-0.98.0/hbase-protocol/hbase-protocol.iml" />
+      <module fileurl="file://H:/sources/hbase/hbase-0.98.0/hbase-server/hbase-server.iml" filepath="H:/sources/hbase/hbase-0.98.0/hbase-server/hbase-server.iml" />
+      <module fileurl="file://H:/sources/hbase/hbase-0.98.0/hbase-shell/hbase-shell.iml" filepath="H:/sources/hbase/hbase-0.98.0/hbase-shell/hbase-shell.iml" />
+      <module fileurl="file://H:/sources/hbase/hbase-0.98.0/hbase-testing-util/hbase-testing-util.iml" filepath="H:/sources/hbase/hbase-0.98.0/hbase-testing-util/hbase-testing-util.iml" />
+      <module fileurl="file://H:/sources/hbase/hbase-0.98.0/hbase-thrift/hbase-thrift.iml" filepath="H:/sources/hbase/hbase-0.98.0/hbase-thrift/hbase-thrift.iml" />
+      <module fileurl="file://Z:/hindex-master/hindex-master.iml" filepath="Z:/hindex-master/hindex-master.iml" />
+    </modules>
+  </component>
+</project>
+

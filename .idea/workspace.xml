@@ -1,0 +1,1536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-server/0.98.0-SNAPSHOT/hbase-server-0.98.0-SNAPSHOT-sources.jar!/org/apache/hadoop/hbase/catalog/MetaEditor.java" line="350" mnemonic="S" />
+    <bookmark url="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-server/0.98.0-SNAPSHOT/hbase-server-0.98.0-SNAPSHOT-sources.jar!/org/apache/hadoop/hbase/regionserver/SplitTransaction.java" line="582" mnemonic="O" />
+    <bookmark url="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-server/0.98.0-SNAPSHOT/hbase-server-0.98.0-SNAPSHOT-sources.jar!/org/apache/hadoop/hbase/coprocessor/BaseRegionObserver.java" line="70" />
+    <bookmark url="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-server/0.98.0-SNAPSHOT/hbase-server-0.98.0-SNAPSHOT-sources.jar!/org/apache/hadoop/hbase/regionserver/HRegion.java" line="3637" mnemonic="C" />
+    <bookmark url="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-server/0.98.0-SNAPSHOT/hbase-server-0.98.0-SNAPSHOT-sources.jar!/org/apache/hadoop/hbase/regionserver/HRegion.java" line="3837" mnemonic="N" />
+    <bookmark url="file://H:/sources/hbase/hbase-0.98.0/hbase-server/src/main/java/org/apache/hadoop/hbase/io/hfile/HFile.java" line="72" mnemonic="P" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3299b0a1-2c8b-47d1-b819-a087860d9410" name="Default" comment="" />
+    <ignored path="HSQL3.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/pom.xml" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1393241022343" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1389703003949" ignored="false" />
+    <file path="/TestCreateIndexTable.java" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1393405511184" ignored="false" />
+    <file path="/Dummy.txt" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1389925965070" ignored="false" />
+    <file path="/Examples.proto" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1389857871830" ignored="false" />
+    <file path="/ExampleProtosEndpoint.java" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1389683953011" ignored="false" />
+    <file path="/fragment.java" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1393242902121" ignored="false" />
+    <file path="/HSQLResultScanner.java" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1393339674935" ignored="false" />
+    <file path="/HBaseConfiguration.java" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1389702218911" ignored="false" />
+    <file path="/DropTablePlan.java" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1389772864052" ignored="false" />
+    <file path="/HSQLConnection.java" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1393211452830" ignored="false" />
+    <file path="/HSQLLexer.g" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1389709719610" ignored="false" />
+    <file path="/HSQLParser.g" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1393223994653" ignored="false" />
+    <file path="/HSQLTreeParser.g" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1393224034039" ignored="false" />
+    <file path="/CreateIndexPlan.java" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1393298675859" ignored="false" />
+    <file path="/TableSchema.java" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1389852555011" ignored="false" />
+    <file path="/HIndex.java" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1389767336982" ignored="false" />
+    <file path="/ListWritable.java" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1389766862779" ignored="false" />
+    <file path="/CreateTablePlan.java" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1389926680716" ignored="false" />
+    <file path="/Utils.java" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1392356980237" ignored="false" />
+    <file path="/ShemaDDL.java" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1389853616586" ignored="false" />
+    <file path="/TestTableSchemaCreate.java" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1389927163219" ignored="false" />
+    <file path="/TestTableSchema.java" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1389852686466" ignored="false" />
+    <file path="/ChangeMetaData.proto" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1389930497067" ignored="false" />
+    <file path="H:/sources/hbase/hbase-0.98/hbase-examples/src/main/protobuf/Examples.proto" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1389858877282" ignored="false" />
+    <file path="/TestChangeMetaDataEndpoint.java" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1389861867710" ignored="false" />
+    <file path="/TestChangeMetaDataEp.java" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1392721853949" ignored="false" />
+    <file path="/ChangeMetaDataEndpoint.java" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1392015872321" ignored="false" />
+    <file path="/HIndexRegionObserver.java" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1393478289052" ignored="false" />
+    <file path="/testInsert.java" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1389929415660" ignored="false" />
+    <file path="/BaseRegionObserverExample.java" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1392281496141" ignored="false" />
+    <file path="/IndexRegionObserver.java" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1393845979576" ignored="false" />
+    <file path="/IndexRegionSplitPolicy.java" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1392274375489" ignored="false" />
+    <file path="/TestRegionSplit.java" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1392303016079" ignored="false" />
+    <file path="/Constants.java" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1392356938325" ignored="false" />
+    <file path="/a.dummy" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1393478009515" ignored="false" />
+    <file path="/IndexUtils.java" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1392734862534" ignored="false" />
+    <file path="/HIndexRecord.java" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1394528804125" ignored="false" />
+    <file path="/TestHIndexRecord.java" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1393073687626" ignored="false" />
+    <file path="/SchemaDDL.java" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1393211552304" ignored="false" />
+    <file path="H:/sources/hindexer/hindex-master/secondaryindex/src/main/java/org/apache/hadoop/hbase/index/util/IndexUtils.java" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1392734942299" ignored="false" />
+    <file path="H:/sources/hindexer/hindex-master/secondaryindex/src/main/java/org/apache/hadoop/hbase/index/coprocessor/regionserver/IndexRegionObserver.java" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1392815760445" ignored="false" />
+    <file path="H:/sources/hindexer/hindex-master/src/main/java/org/apache/hadoop/hbase/regionserver/RegionScanner.java" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1392798752282" ignored="false" />
+    <file path="H:/sources/hindexer/hindex-master/src/main/java/org/apache/hadoop/hbase/regionserver/InternalScanner.java" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1392798694623" ignored="false" />
+    <file path="H:/sources/hindexer/hindex-master/src/main/java/org/apache/hadoop/hbase/regionserver/RegionCoprocessorHost.java" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1392798752282" ignored="false" />
+    <file path="H:/sources/hindexer/hindex-master/src/main/java/org/apache/hadoop/hbase/regionserver/Compactor.java" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1392799047894" ignored="false" />
+    <file path="H:/sources/hindexer/hindex-master/src/main/java/org/apache/hadoop/hbase/io/HFileLink.java" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1392799648423" ignored="false" />
+    <file path="/IndexRegionScanner.java" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1393405341631" ignored="false" />
+    <file path="/ByteArrayBuilder.java" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1392901726371" ignored="false" />
+    <file path="/TestIndexRegionScanner.java" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1393140917262" ignored="false" />
+    <file path="/hbase-site.xml" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1393072908411" ignored="false" />
+    <file path="/HSQLBaseConnection.java" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1393211522844" ignored="false" />
+    <file path="/SelectPlan.java" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1393227842866" ignored="false" />
+    <file path="/HSQLAndCondition.java" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1393224455402" ignored="false" />
+    <file path="/HSQLOrCondition.java" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1393224522197" ignored="false" />
+    <file path="/HSQLAtomCondition.java" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1393225173080" ignored="false" />
+    <file path="/QueryRows.proto" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1393313232268" ignored="false" />
+    <file path="$PROJECT_DIR$/HBase/res/values/strings.xml" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1393240855343" ignored="false" />
+    <file path="/QueryRowsEndpoint.java" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1393401077394" ignored="false" />
+    <file path="/New Method Body.txt.ft" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1393254216056" ignored="false" />
+    <file path="/Overridden Method Body.txt.ft" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1393254226018" ignored="false" />
+    <file path="/ActionScript File Header.txt.ft" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1393256140003" ignored="false" />
+    <file path="/File Header.txt.ft" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1393256151459" ignored="false" />
+    <file path="/HSQLNotSupported.java" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1393299989079" ignored="false" />
+    <file path="/DeletePlan.java" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1393388180226" ignored="false" />
+    <file path="/TestSelectTable.java" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1393390728278" ignored="false" />
+    <file path="/HSQLQConnection.java" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1393388730256" ignored="false" />
+    <file path="/HSQLResultSet.java" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1393400961456" ignored="false" />
+    <file path="/HFile.java" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1393575338045" ignored="false" />
+    <file path="/HFileReaderV2.java" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1393570237165" ignored="false" />
+    <file path="/IndexHalfFileReader.java" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1393584891557" ignored="false" />
+    <file path="/IndexHalfStoreFileReader.java" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1393845567056" ignored="false" />
+    <file path="/IndexKeyValue.java" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1393831543904" ignored="false" />
+    <file path="/IndexKey.java" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1393831544344" ignored="false" />
+    <file path="/QueryRows.java" changelist="3299b0a1-2c8b-47d1-b819-a087860d9410" time="1394528741766" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="Commander">
+    <leftPanel />
+    <rightPanel />
+    <splitter proportion="0.5" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DatabaseView">
+    <flatten value="false" />
+    <groupTables value="false" />
+    <sortChildren value="false" />
+  </component>
+  <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint url="file://$PROJECT_DIR$/HSQL/src/test/java/org/ict/hsql/schema/TestColumnRef.java" line="2" class="TestColumnRef.java" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/HSQL/src/test/java/org/ict/coprocessor/TestChangeMetaDataEp.java" line="63" class="org.ict.coprocessor.TestChangeMetaDataEp" package="org.ict.coprocessor">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/HSQL/src/test/java/org/ict/coprocessor/TestChangeMetaDataEp.java" line="69" class="org.ict.coprocessor.TestChangeMetaDataEp" package="org.ict.coprocessor">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/HSQL/src/test/java/org/ict/coprocessor/TestChangeMetaDataEp.java" line="48" class="org.ict.coprocessor.TestChangeMetaDataEp" package="org.ict.coprocessor">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-server/0.98.0-SNAPSHOT/hbase-server-0.98.0-SNAPSHOT-sources.jar!/org/apache/hadoop/hbase/regionserver/HRegion.java" line="3637" class="org.apache.hadoop.hbase.regionserver.HRegion.RegionScannerImpl" package="org.apache.hadoop.hbase.regionserver">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/HSQL/src/test/java/org/ict/coprocessor/TestHIndexRecord.java" line="46" class="org.ict.coprocessor.TestHIndexRecord" package="org.ict.coprocessor">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/HSQL/src/main/java/org/ict/hsql/query/HSQLResultSet.java" line="99" class="org.ict.hsql.query.HSQLResultSet" package="org.ict.hsql.query">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/HSQL/src/test/java/org/ict/hsql/plan/TestCreateIndexTable.java" line="52" class="org.ict.hsql.plan.TestCreateIndexTable" package="org.ict.hsql.plan">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </line_breakpoints>
+    <breakpoint_rules default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="HSQL3" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="CompoundBloomFilter.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://H:/sources/hbase/hbase-0.98.0/hbase-server/src/main/java/org/apache/hadoop/hbase/util/CompoundBloomFilter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="41" column="13" selection-start="1689" selection-end="1689" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BloomType.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://H:/sources/hbase/hbase-0.98.0/hbase-client/src/main/java/org/apache/hadoop/hbase/regionserver/BloomType.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="26" column="21" selection-start="1045" selection-end="1054" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StoreFile.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://H:/sources/hbase/hbase-0.98.0/hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver/StoreFile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="754" column="26" selection-start="26382" selection-end="26382" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ChangeMetaData.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HSQL/src/main/java/org/apache/hadoop/hbase/coprocessor/hindex/generated/ChangeMetaData.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="19" selection-start="175" selection-end="175" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HSQLLexer.g" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HSQL/src/main/antlr3/HSQLLexer.g">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HSQLParser.g" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HSQL/src/main/antlr3/HSQLParser.g">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-4.7824817">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QueryRows.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HSQL/src/main/java/org/apache/hadoop/hbase/coprocessor/hindex/generated/QueryRows.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="51" column="52" selection-start="1538" selection-end="1538" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#4056#4415#0" expanded="true" />
+                <element signature="e#4408#4409#0" expanded="true" />
+                <element signature="e#23326#23682#0" expanded="true" />
+                <element signature="e#23675#23676#0" expanded="true" />
+                <element signature="e#61354#62335#0" expanded="true" />
+                <element signature="e#62326#62327#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HIndexRecord.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HSQL/src/main/java/org/apache/hadoop/hbase/regionserver/HIndexRecord.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="95" column="16" selection-start="2834" selection-end="2834" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Enum.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.7.0_15/src.zip!/java/lang/Enum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="54" column="22" selection-start="1174" selection-end="1174" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CompoundBloomFilterBase.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://H:/sources/hbase/hbase-0.98.0/hbase-server/src/main/java/org/apache/hadoop/hbase/util/CompoundBloomFilterBase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="27" column="13" selection-start="1087" selection-end="1087" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="H:/sources/hbase-0.98" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="HierarchyBrowserManager">
+    <option name="SORT_ALPHABETICALLY" value="true" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/HSQL/src/test/java/org/ict/coprocessor/TestHIndexRecord.java" />
+        <option value="$PROJECT_DIR$/HSQL/src/test/java/org/ict/coprocessor/TestIndexRegionScanner.java" />
+        <option value="$PROJECT_DIR$/HSQL/src/main/java/org/apache/hadoop/hbase/regionserver/IndexRegionScanner.java" />
+        <option value="$PROJECT_DIR$/HSQL/src/test/java/org/ict/hsql/plan/TestCreateIndexTable.java" />
+        <option value="H:/sources/hbase/hbase-0.98.0/hbase-server/src/main/java/org/apache/hadoop/hbase/io/hfile/HFileReaderV2.java" />
+        <option value="H:/sources/hbase/hbase-0.98.0/hbase-server/src/main/java/org/apache/hadoop/hbase/io/hfile/HFileBlockIndex.java" />
+        <option value="H:/sources/hbase/hbase-0.98.0/hbase-server/src/main/java/org/apache/hadoop/hbase/io/hfile/HFile.java" />
+        <option value="H:/sources/hbase/hbase-0.98.0/hbase-server/src/main/java/org/apache/hadoop/hbase/io/HalfStoreFileReader.java" />
+        <option value="$PROJECT_DIR$/HSQL/src/main/java/org/apache/hadoop/hbase/regionserver/IndexHalfFileReader.java" />
+        <option value="$PROJECT_DIR$/HSQL/src/main/java/org/apache/hadoop/hbase/regionserver/IndexKeyValue.java" />
+        <option value="$PROJECT_DIR$/HSQL/src/main/java/org/apache/hadoop/hbase/regionserver/IndexKey.java" />
+        <option value="$PROJECT_DIR$/HSQL/src/main/java/org/apache/hadoop/hbase/regionserver/IndexHalfStoreFileReader.java" />
+        <option value="$PROJECT_DIR$/HSQL/src/main/java/org/apache/hadoop/hbase/regionserver/IndexRegionObserver.java" />
+        <option value="$PROJECT_DIR$/HSQL/src/main/java/org/ict/coprocessor/HIndexRegionObserver.java" />
+        <option value="$PROJECT_DIR$/HSQL/src/main/java/org/apache/hadoop/hbase/coprocessor/hindex/generated/QueryRows.java" />
+        <option value="$PROJECT_DIR$/HSQL/src/main/java/org/apache/hadoop/hbase/regionserver/HIndexRecord.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <option name="showIgnored" value="false" />
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="HSQL" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="HSQL" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Lifecycle" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="width" value="1612" />
+    <option name="height" value="912" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Probable bugs</id>
+          </State>
+          <State>
+            <id>RELAX NG</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+          <State>
+            <id>XSLT</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages ProjectPane="false" />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HSQL3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HSQL3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HSQL3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HSQL3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HSQL3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HSQL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HSQL3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HSQL3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HSQL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HSQL3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HSQL3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HSQL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HSQL3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HSQL3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HSQL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="org" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HSQL3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HSQL3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HSQL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="org" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hbase" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="regionserver" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HSQL3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HSQL3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HSQL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="org" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hbase" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="generated" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HSQL3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HSQL3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HSQL" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="antlr3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_directory_selection" value="$PROJECT_DIR$/HSQL/src/main/java/org/ict/coprocessor" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="OverrideImplement.combined" value="false" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.lastSelected" value="appearance" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.side.proportion" value="0.15617716" />
+    <property name="GoToClass.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="options.splitter.details.proportions" value="0.46411484" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\source\HSQL3\HSQL\src\main\java\org\apache\hadoop\hbase\regionserver" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.apache.hadoop.hbase.regionserver" />
+      <recent name="org.ict.hsql.schema" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.ict.coprocessor" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\source\HSQL3\HIndex\src\main" />
+      <recent name="H:\source\HSQL3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestCreateIndexTable">
+    <configuration default="false" name="TestHIndexRecord" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="org.ict.coprocessor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="HSQL" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="org.ict.coprocessor" />
+      <option name="MAIN_CLASS_NAME" value="org.ict.coprocessor.TestHIndexRecord" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestIndexRegionScanner" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="org.ict.coprocessor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="HSQL" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="org.ict.coprocessor" />
+      <option name="MAIN_CLASS_NAME" value="org.ict.coprocessor.TestIndexRegionScanner" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestIndexRegionScanner.testPut" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="org.ict.coprocessor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="HSQL" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="org.ict.coprocessor" />
+      <option name="MAIN_CLASS_NAME" value="org.ict.coprocessor.TestIndexRegionScanner" />
+      <option name="METHOD_NAME" value="testPut" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestSelectTable" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="org.ict.hsql.plan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="HSQL" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="org.ict.hsql.plan" />
+      <option name="MAIN_CLASS_NAME" value="org.ict.hsql.plan.TestSelectTable" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestCreateIndexTable" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="org.ict.hsql.plan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="HSQL" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="org.ict.hsql.plan" />
+      <option name="MAIN_CLASS_NAME" value="org.ict.hsql.plan.TestCreateIndexTable" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestChangeMetaDataEndpoint" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="org.ict.coprocessor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="HSQL" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="org.ict.coprocessor" />
+      <option name="MAIN_CLASS_NAME" value="org.ict.coprocessor.TestChangeMetaDataEndpoint" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestChangeMetaDataEp" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="org.ict.coprocessor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="HSQL" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="org.ict.coprocessor" />
+      <option name="MAIN_CLASS_NAME" value="org.ict.coprocessor.TestChangeMetaDataEp" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="HSQL [package]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="package" />
+              </list>
+            </option>
+            <option name="profilesMap">
+              <map>
+                <entry key="test" value="false" />
+              </map>
+            </option>
+            <option name="workingDirPath" value="$PROJECT_DIR$/HSQL" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="false" name="HBase" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="HBase" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <method />
+    </configuration>
+    <list size="9">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.TestChangeMetaDataEndpoint" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.TestChangeMetaDataEp" />
+      <item index="2" class="java.lang.String" itemvalue="Maven.HSQL [package]" />
+      <item index="3" class="java.lang.String" itemvalue="Android Application.HBase" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.TestHIndexRecord" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.TestIndexRegionScanner" />
+      <item index="6" class="java.lang.String" itemvalue="JUnit.TestIndexRegionScanner.testPut" />
+      <item index="7" class="java.lang.String" itemvalue="JUnit.TestSelectTable" />
+      <item index="8" class="java.lang.String" itemvalue="JUnit.TestCreateIndexTable" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.TestCreateIndexTable" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.TestIndexRegionScanner" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.TestHIndexRecord" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.TestSelectTable" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.TestIndexRegionScanner.testPut" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="true">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="DETECT_NESTED_COPIES" value="true" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <configuration useDefault="false">C:\Users\lwVampire\AppData\Roaming\Subversion</configuration>
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3299b0a1-2c8b-47d1-b819-a087860d9410" name="Default" comment="" />
+      <created>1389595596009</created>
+      <updated>1389595596009</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="0" width="1612" height="912" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32967743" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24967742" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.7418919" sideWeight="0.4974093" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39864865" sideWeight="0.498057" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.77137303" sideWeight="0.35945946" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15405406" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22733161" sideWeight="0.48513514" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1373057" sideWeight="0.45135134" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28626943" sideWeight="0.34324324" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.54864866" sideWeight="0.49481866" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.65675676" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22972973" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23251295" sideWeight="0.34324324" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase-server/0.98.0-SNAPSHOT/hbase-server-0.98.0-SNAPSHOT-sources.jar!/org/apache/hadoop/hbase/coprocessor/ObserverContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="67" column="14" selection-start="2362" selection-end="2362" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HSQL/src/main/java/org/apache/hadoop/hbase/regionserver/IndexRegionObserver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="71" column="23" selection-start="2920" selection-end="2928" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://H:/sources/hbase/hbase-0.98.0/hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver/RegionCoprocessorHost.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2016" column="26" selection-start="73624" selection-end="73624" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://H:/sources/hbase/hbase-0.98.0/hbase-server/src/main/java/org/apache/hadoop/hbase/util/BloomFilterBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="17" selection-start="1086" selection-end="1086" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/sources/hbase/hbase-0.98.0/hbase-server/src/main/java/org/apache/hadoop/hbase/util/ByteBloomFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="81" column="51" selection-start="3689" selection-end="3700" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/sources/hbase/hbase-0.98.0/hbase-server/src/main/java/org/apache/hadoop/hbase/util/BloomFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="17" selection-start="1960" selection-end="1960" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/sources/hbase/hbase-0.98.0/hbase-server/src/main/java/org/apache/hadoop/hbase/util/CompoundBloomFilterBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="13" selection-start="1087" selection-end="1087" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/sources/hbase/hbase-0.98.0/hbase-server/src/main/java/org/apache/hadoop/hbase/util/CompoundBloomFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="13" selection-start="1689" selection-end="1689" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_15/src.zip!/java/lang/Enum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="54" column="22" selection-start="1174" selection-end="1174" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/sources/hbase/hbase-0.98.0/hbase-client/src/main/java/org/apache/hadoop/hbase/regionserver/BloomType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="21" selection-start="1045" selection-end="1054" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/sources/hbase/hbase-0.98.0/hbase-server/src/main/java/org/apache/hadoop/hbase/regionserver/StoreFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="754" column="26" selection-start="26382" selection-end="26382" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HSQL/src/main/java/org/apache/hadoop/hbase/coprocessor/hindex/generated/QueryRows.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="52" selection-start="1538" selection-end="1538" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#4056#4415#0" expanded="true" />
+            <element signature="e#4408#4409#0" expanded="true" />
+            <element signature="e#23326#23682#0" expanded="true" />
+            <element signature="e#23675#23676#0" expanded="true" />
+            <element signature="e#61354#62335#0" expanded="true" />
+            <element signature="e#62326#62327#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HSQL/src/main/java/org/apache/hadoop/hbase/regionserver/HIndexRecord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="95" column="16" selection-start="2834" selection-end="2834" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HSQL/src/main/java/org/apache/hadoop/hbase/coprocessor/hindex/generated/ChangeMetaData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="19" selection-start="175" selection-end="175" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HSQL/src/main/antlr3/HSQLLexer.g">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HSQL/src/main/antlr3/HSQLParser.g">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-4.7824817">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>HSQL</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.13869464" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+

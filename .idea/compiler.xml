@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="DEFAULT_COMPILER" value="Javac" />
+    <excludeFromCompile>
+      <directory url="file://$PROJECT_DIR$/HIndex/target/generated-sources/annotations" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/HIndex/target/generated-test-sources/test-annotations" includeSubdirectories="true" />
+      <directory url="file://H:/sources/hindexer/hindex-master/target/generated-sources/annotations" includeSubdirectories="true" />
+      <directory url="file://H:/sources/hindexer/hindex-master/target/generated-test-sources/test-annotations" includeSubdirectories="true" />
+      <directory url="file://Z:/hindex-master/target/generated-sources/annotations" includeSubdirectories="true" />
+      <directory url="file://Z:/hindex-master/target/generated-test-sources/test-annotations" includeSubdirectories="true" />
+      <directory url="file://H:/sources/hbase/hbase-0.98.0/hbase-shell/target/generated-sources/annotations" includeSubdirectories="true" />
+      <directory url="file://H:/sources/hbase/hbase-0.98.0/hbase-shell/target/generated-test-sources/test-annotations" includeSubdirectories="true" />
+      <directory url="file://H:/sources/hbase/hbase-0.98.0/hbase-hadoop2-compat/target/generated-sources/annotations" includeSubdirectories="true" />
+      <directory url="file://H:/sources/hbase/hbase-0.98.0/hbase-hadoop2-compat/target/generated-test-sources/test-annotations" includeSubdirectories="true" />
+      <directory url="file://H:/sources/hbase/hbase-0.98.0/hbase-server/target/generated-sources/annotations" includeSubdirectories="true" />
+      <directory url="file://H:/sources/hbase/hbase-0.98.0/hbase-server/target/generated-test-sources/test-annotations" includeSubdirectories="true" />
+      <directory url="file://H:/sources/hbase/hbase-0.98.0/hbase-examples/target/generated-sources/annotations" includeSubdirectories="true" />
+      <directory url="file://H:/sources/hbase/hbase-0.98.0/hbase-examples/target/generated-test-sources/test-annotations" includeSubdirectories="true" />
+      <directory url="file://H:/sources/hbase/hbase-0.98.0/hbase-common/target/generated-sources/annotations" includeSubdirectories="true" />
+      <directory url="file://H:/sources/hbase/hbase-0.98.0/hbase-common/target/generated-test-sources/test-annotations" includeSubdirectories="true" />
+      <directory url="file://H:/sources/hbase/hbase-0.98.0/hbase-client/target/generated-sources/annotations" includeSubdirectories="true" />
+      <directory url="file://H:/sources/hbase/hbase-0.98.0/hbase-client/target/generated-test-sources/test-annotations" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/HSQL/target/generated-sources/annotations" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/HSQL/target/generated-test-sources/test-annotations" includeSubdirectories="true" />
+      <directory url="file://H:/sources/hbase/hbase-0.98.0/hbase-hadoop-compat/target/generated-sources/annotations" includeSubdirectories="true" />
+      <directory url="file://H:/sources/hbase/hbase-0.98.0/hbase-hadoop-compat/target/generated-test-sources/test-annotations" includeSubdirectories="true" />
+      <directory url="file://H:/sources/hbase/hbase-0.98.0/hbase-prefix-tree/target/generated-sources/annotations" includeSubdirectories="true" />
+      <directory url="file://H:/sources/hbase/hbase-0.98.0/hbase-prefix-tree/target/generated-test-sources/test-annotations" includeSubdirectories="true" />
+      <directory url="file://H:/sources/hbase/hbase-0.98.0/hbase-testing-util/target/generated-sources/annotations" includeSubdirectories="true" />
+      <directory url="file://H:/sources/hbase/hbase-0.98.0/hbase-testing-util/target/generated-test-sources/test-annotations" includeSubdirectories="true" />
+      <directory url="file://H:/sources/hbase/hbase-0.98.0/hbase-thrift/target/generated-sources/annotations" includeSubdirectories="true" />
+      <directory url="file://H:/sources/hbase/hbase-0.98.0/hbase-thrift/target/generated-test-sources/test-annotations" includeSubdirectories="true" />
+      <directory url="file://H:/sources/hbase/hbase-0.98.0/hbase-it/target/generated-sources/annotations" includeSubdirectories="true" />
+      <directory url="file://H:/sources/hbase/hbase-0.98.0/hbase-it/target/generated-test-sources/test-annotations" includeSubdirectories="true" />
+      <directory url="file://H:/sources/hbase/hbase-0.98.0/hbase-protocol/target/generated-sources/annotations" includeSubdirectories="true" />
+      <directory url="file://H:/sources/hbase/hbase-0.98.0/hbase-protocol/target/generated-test-sources/test-annotations" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/HBase/gen" includeSubdirectories="true" />
+    </excludeFromCompile>
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="hbase-client" />
+        <module name="hbase-common" />
+        <module name="hbase-examples" />
+        <module name="hbase-hadoop-compat" />
+        <module name="hbase-hadoop2-compat" />
+        <module name="hbase-it" />
+        <module name="hbase-prefix-tree" />
+        <module name="hbase-protocol" />
+        <module name="hbase-server" />
+        <module name="hbase-shell" />
+        <module name="hbase-testing-util" />
+        <module name="hbase-thrift" />
+        <module name="HIndex" />
+        <module name="hindex-master" />
+        <module name="HSQL" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="hbase" target="1.6" />
+      <module name="hbase (1)" target="1.6" />
+      <module name="hbase-assembly" target="1.6" />
+      <module name="hbase-client" target="1.6" />
+      <module name="hbase-common" target="1.6" />
+      <module name="hbase-examples" target="1.6" />
+      <module name="hbase-hadoop-compat" target="1.6" />
+      <module name="hbase-hadoop2-compat" target="1.6" />
+      <module name="hbase-it" target="1.6" />
+      <module name="hbase-prefix-tree" target="1.6" />
+      <module name="hbase-protocol" target="1.6" />
+      <module name="hbase-server" target="1.6" />
+      <module name="hbase-shell" target="1.6" />
+      <module name="hbase-testing-util" target="1.6" />
+      <module name="hbase-thrift" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
+

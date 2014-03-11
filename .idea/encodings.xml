@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://H:/sources/hbase/hbase-0.98.0" charset="UTF-8" />
+    <file url="file://H:/sources/hbase/hbase-0.98.0/hbase-assembly" charset="UTF-8" />
+    <file url="file://H:/sources/hbase/hbase-0.98.0/hbase-client" charset="UTF-8" />
+    <file url="file://H:/sources/hbase/hbase-0.98.0/hbase-common" charset="UTF-8" />
+    <file url="file://H:/sources/hbase/hbase-0.98.0/hbase-examples" charset="UTF-8" />
+    <file url="file://H:/sources/hbase/hbase-0.98.0/hbase-hadoop-compat" charset="UTF-8" />
+    <file url="file://H:/sources/hbase/hbase-0.98.0/hbase-hadoop2-compat" charset="UTF-8" />
+    <file url="file://H:/sources/hbase/hbase-0.98.0/hbase-it" charset="UTF-8" />
+    <file url="file://H:/sources/hbase/hbase-0.98.0/hbase-prefix-tree" charset="UTF-8" />
+    <file url="file://H:/sources/hbase/hbase-0.98.0/hbase-protocol" charset="UTF-8" />
+    <file url="file://H:/sources/hbase/hbase-0.98.0/hbase-server" charset="UTF-8" />
+    <file url="file://H:/sources/hbase/hbase-0.98.0/hbase-shell" charset="UTF-8" />
+    <file url="file://H:/sources/hbase/hbase-0.98.0/hbase-testing-util" charset="UTF-8" />
+    <file url="file://H:/sources/hbase/hbase-0.98.0/hbase-thrift" charset="UTF-8" />
+    <file url="file://H:/sources/hindexer/hindex-master" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HSQL" charset="UTF-8" />
+  </component>
+</project>
+

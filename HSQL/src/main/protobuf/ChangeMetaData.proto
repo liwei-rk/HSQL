@@ -1,0 +1,28 @@
+package changeMetaRequest;
+option java_package = "org.apache.hadoop.hbase.coprocessor.hindex.generated";
+option java_outer_classname = "ChangeMetaData";
+option java_generic_services = true;
+option java_generate_equals_and_hash = true;
+option optimize_for = SPEED;
+
+message ChangeMetaRequest {
+    required bytes meta =1;
+}
+
+message ChangeMetaResponse {
+    required bytes meta =1;
+}
+
+message MetaRequest {
+    optional string tableName=1;
+}
+service ChangeService {
+  rpc changeMeta(ChangeMetaRequest)
+    returns (ChangeMetaResponse);
+  /*
+   *getMeta just for test now
+   */
+  rpc getMeta(MetaRequest)
+    returns (ChangeMetaResponse);
+}
+

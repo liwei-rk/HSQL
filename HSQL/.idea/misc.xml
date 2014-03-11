@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
+  <component name="IdProvider" IDEtalkID="53795FB786A7D8C2FAF138BF137C107F" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="H:/source/hindex-master/pom.xml" />
+        <option value="$MAVEN_REPOSITORY$/org/apache/hbase/hbase/0.98/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$MAVEN_REPOSITORY$/org/apache/hbase/hbase/0.98/hbase-assembly/pom.xml" />
+        <option value="$MAVEN_REPOSITORY$/org/apache/hbase/hbase/0.98/hbase-client/pom.xml" />
+        <option value="$MAVEN_REPOSITORY$/org/apache/hbase/hbase/0.98/hbase-common/pom.xml" />
+        <option value="$MAVEN_REPOSITORY$/org/apache/hbase/hbase/0.98/hbase-examples/pom.xml" />
+        <option value="$MAVEN_REPOSITORY$/org/apache/hbase/hbase/0.98/hbase-hadoop-compat/pom.xml" />
+        <option value="$MAVEN_REPOSITORY$/org/apache/hbase/hbase/0.98/hbase-hadoop2-compat/pom.xml" />
+        <option value="$MAVEN_REPOSITORY$/org/apache/hbase/hbase/0.98/hbase-it/pom.xml" />
+        <option value="$MAVEN_REPOSITORY$/org/apache/hbase/hbase/0.98/hbase-prefix-tree/pom.xml" />
+        <option value="$MAVEN_REPOSITORY$/org/apache/hbase/hbase/0.98/hbase-protocol/pom.xml" />
+        <option value="$MAVEN_REPOSITORY$/org/apache/hbase/hbase/0.98/hbase-server/pom.xml" />
+        <option value="$MAVEN_REPOSITORY$/org/apache/hbase/hbase/0.98/hbase-shell/pom.xml" />
+        <option value="$MAVEN_REPOSITORY$/org/apache/hbase/hbase/0.98/hbase-testing-util/pom.xml" />
+        <option value="$MAVEN_REPOSITORY$/org/apache/hbase/hbase/0.98/hbase-thrift/pom.xml" />
+        <option value="$MAVEN_REPOSITORY$/org/apache/hbase/hbase/0.98/pom.xml" />
+        <option value="H:/source/hindex-master/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="1.7" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SvnBranchConfigurationManager">
+    <option name="myConfigurationMap">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <SvnBranchConfiguration>
+              <option name="trunkUrl" value="" />
+            </SvnBranchConfiguration>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="mySupportsUserInfoFilter" value="true" />
+  </component>
+</project>
+

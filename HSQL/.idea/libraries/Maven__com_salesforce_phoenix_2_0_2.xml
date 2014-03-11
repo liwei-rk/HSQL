@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: com.salesforce:phoenix:2.0.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/phoenix-2.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://H:/source/phoenix-master/phoenix-master/src/main/java" />
+      <root url="file://H:/source/phoenix-master/phoenix-master/src/test/java" />
+      <root url="file://H:/source/phoenix-master/src/main/java" />
+      <root url="file://H:/source/phoenix-master/src/test/java" />
+    </SOURCES>
+  </library>
+</component>

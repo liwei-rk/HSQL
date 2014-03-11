@@ -1,0 +1,46 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.hadoop:hadoop-core:1.0.4">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-core/1.0.4/hadoop-core-1.0.4.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-core/1.0.4/hadoop-core-1.0.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-core/1.0.4/hadoop-core-1.0.4-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-core/1.0.4/hadoop-core-1.0.4-sources.jar!/hadoop-1.0.4/src/test/aop" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-core/1.0.4/hadoop-core-1.0.4-sources.jar!/hadoop-1.0.4/src/test" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-core/1.0.4/hadoop-core-1.0.4-sources.jar!/hadoop-1.0.4/src/hdfs" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-core/1.0.4/hadoop-core-1.0.4-sources.jar!/hadoop-1.0.4/src/tools" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-core/1.0.4/hadoop-core-1.0.4-sources.jar!/hadoop-1.0.4/src/mapred" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-core/1.0.4/hadoop-core-1.0.4-sources.jar!/hadoop-1.0.4/src/benchmarks/gridmix2/src/java" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-core/1.0.4/hadoop-core-1.0.4-sources.jar!/hadoop-1.0.4/src/core" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-core/1.0.4/hadoop-core-1.0.4-sources.jar!/hadoop-1.0.4/src/contrib/streaming/src/test/system" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-core/1.0.4/hadoop-core-1.0.4-sources.jar!/hadoop-1.0.4/src/contrib/streaming/src/test" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-core/1.0.4/hadoop-core-1.0.4-sources.jar!/hadoop-1.0.4/src/contrib/streaming/src/java" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-core/1.0.4/hadoop-core-1.0.4-sources.jar!/hadoop-1.0.4/src/contrib/vaidya/src/java" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-core/1.0.4/hadoop-core-1.0.4-sources.jar!/hadoop-1.0.4/src/contrib/index/src/test" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-core/1.0.4/hadoop-core-1.0.4-sources.jar!/hadoop-1.0.4/src/contrib/index/src/java" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-core/1.0.4/hadoop-core-1.0.4-sources.jar!/hadoop-1.0.4/src/contrib/thriftfs/test" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-core/1.0.4/hadoop-core-1.0.4-sources.jar!/hadoop-1.0.4/src/contrib/thriftfs/gen-java" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-core/1.0.4/hadoop-core-1.0.4-sources.jar!/hadoop-1.0.4/src/contrib/thriftfs/src/java" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-core/1.0.4/hadoop-core-1.0.4-sources.jar!/hadoop-1.0.4/src/contrib/hdfsproxy/src/test" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-core/1.0.4/hadoop-core-1.0.4-sources.jar!/hadoop-1.0.4/src/contrib/hdfsproxy/src/java" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-core/1.0.4/hadoop-core-1.0.4-sources.jar!/hadoop-1.0.4/src/contrib/capacity-scheduler/src/test" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-core/1.0.4/hadoop-core-1.0.4-sources.jar!/hadoop-1.0.4/src/contrib/capacity-scheduler/src/java" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-core/1.0.4/hadoop-core-1.0.4-sources.jar!/hadoop-1.0.4/src/contrib/gridmix/src/test/system" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-core/1.0.4/hadoop-core-1.0.4-sources.jar!/hadoop-1.0.4/src/contrib/gridmix/src/test" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-core/1.0.4/hadoop-core-1.0.4-sources.jar!/hadoop-1.0.4/src/contrib/gridmix/src/java" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-core/1.0.4/hadoop-core-1.0.4-sources.jar!/hadoop-1.0.4/src/contrib/fuse-dfs/src/test" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-core/1.0.4/hadoop-core-1.0.4-sources.jar!/hadoop-1.0.4/src/contrib/data_join/src/test" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-core/1.0.4/hadoop-core-1.0.4-sources.jar!/hadoop-1.0.4/src/contrib/data_join/src/java" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-core/1.0.4/hadoop-core-1.0.4-sources.jar!/hadoop-1.0.4/src/contrib/data_join/src/examples" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-core/1.0.4/hadoop-core-1.0.4-sources.jar!/hadoop-1.0.4/src/contrib/fairscheduler/src/test" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-core/1.0.4/hadoop-core-1.0.4-sources.jar!/hadoop-1.0.4/src/contrib/fairscheduler/src/java" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-core/1.0.4/hadoop-core-1.0.4-sources.jar!/hadoop-1.0.4/src/contrib/failmon/src/java" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-core/1.0.4/hadoop-core-1.0.4-sources.jar!/hadoop-1.0.4/src/contrib/eclipse-plugin/src/java" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-core/1.0.4/hadoop-core-1.0.4-sources.jar!/hadoop-1.0.4/src/ant" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-core/1.0.4/hadoop-core-1.0.4-sources.jar!/hadoop-1.0.4/src/examples" />
+    </SOURCES>
+  </library>
+</component>

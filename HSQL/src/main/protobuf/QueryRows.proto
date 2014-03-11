@@ -1,0 +1,23 @@
+option java_package = "org.apache.hadoop.hbase.coprocessor.hindex.generated";
+option java_outer_classname = "QueryRows";
+option java_generic_services = true;
+option java_generate_equals_and_hash = true;
+option optimize_for = SPEED;
+import "Client.proto";
+message ScannerId{
+    required int64 id =1;
+    optional int32 batch =2 [default=1];
+}
+message Response{
+    optional Result result =1;
+    required bool remaining =2;
+}
+service QueryRowsService {
+    rpc getScanner(Scan)
+        returns(ScannerId);
+    rpc close(ScannerId)
+        returns (Response);
+    rpc next(ScannerId)
+        returns(Response);
+}
+
